@@ -1,9 +1,15 @@
 # ICS5110
-Assignment in course ICS5110 für MSc in Artificial Intelligence 
+Assignment in course ICS5110 für MSc in Artificial Intelligence in the Winter Semester 2024. Group participants:
+
+* danou.nauck.24@um.edu.mt
+* owen.gauci.24@um.edu.mt
+* ivan.ciancio.01@um.edu.mt
+* paolo.fidicaro.24@um.edu.mt
+
 
 # Usage
 To pull this repos and bring it locally, go into the folder of your choise and do a
-* git clone git@github.com:DocDanouBot/ICS5110.git
+> git clone git@github.com:DocDanouBot/ICS5110.git
 
 regular git-usage rules apply. I think as you are all invited, you can add your own ssh-key within our own accounts. I suppose that this is independent from this repos.
 
@@ -13,8 +19,9 @@ The Journal document file can be found here:
 * https://docs.google.com/document/d/1OYasAGGiOdcpnwj0BQFHTR_HgXUwIvYkn92UqCV6fMk/edit?tab=t.0
 
 The final Assignment paper we use the master-template from the uni website. The optimized and prepared version can be found here:
-* https://www.overleaf.com/project/671f5602b8967f23a9d7681e (1) from Danou
-* https://www.overleaf.com/project/671b2c1521d98e279ab53de5 (2) from Owen
+* https://www.overleaf.com/project/671f5602b8967f23a9d7681e [https://www.overleaf.com/project/671f5602b8967f23a9d7681e](**(1)**) from Danou
+* https://www.overleaf.com/project/671b2c1521d98e279ab53de5 [https://www.overleaf.com/project/671b2c1521d98e279ab53de5](**(2)**) 
+
 Note: These are two different version from apparently different master-template sources. They are both looking good, both from the Uni-website and in LaTeX-format. I do not know which one is the better one, or -better said- the expected one. We need to make a decision on this.
 
 Plagasim form, each one has to fill it out and sign it seperatly
@@ -33,10 +40,10 @@ The original dataset was sourced and forked from here
 * https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries/data
 
 But of course, the one we optimise and work with can be found here in this repos under
-* /data
+* [https://github.com/DocDanouBot/ICS5110/tree/master/data](/data)
 
 I'd propose to store eachs code in their own directory. And use the other directorie
-* /code 
+* [https://github.com/DocDanouBot/ICS5110/tree/master/code](/code)
 
 # Runtime environment
 

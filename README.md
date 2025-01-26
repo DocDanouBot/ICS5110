@@ -15,12 +15,11 @@ regular git-usage rules apply. I think as you are all invited, you can add your 
 
 ## Deliverables
 
-The ***Journal document*** file can be found here:
-* https://docs.google.com/document/d/1OYasAGGiOdcpnwj0BQFHTR_HgXUwIvYkn92UqCV6fMk/edit?tab=t.0
-
 The final ***Assignment paper*** we use the master-template from the uni website. The optimized and prepared version can be found here:
-* https://www.overleaf.com/project/671f5602b8967f23a9d7681e [**(1)**](https://www.overleaf.com/project/671f5602b8967f23a9d7681e) from Danou
-* https://www.overleaf.com/project/671b2c1521d98e279ab53de5 [**(2)**](https://www.overleaf.com/project/671b2c1521d98e279ab53de5) from Owen
+* https://www.overleaf.com/project/6794bebdf50cc6b8b710e947
+
+The ***Genarative AI Usage Journal document*** file can be found here:
+* https://docs.google.com/document/d/1NWOmYiDnY2jD1NamqEsptvA-RoF31Qi-Uhi06pPMZRc/edit?tab=t.0
 
 Note: These are two different version from apparently different master-template sources. They are both looking good, both from the Uni-website and in LaTeX-format. I do not know which one is the better one, or -better said- the expected one. We need to make a decision on this.
 

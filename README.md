@@ -42,7 +42,4 @@ But of course, the one we optimise and work with can be found here in this repos
 I'd propose to store eachs code in their own directory. And use the other sub-directories below. 
 * [/code](https://github.com/DocDanouBot/ICS5110/tree/master/code)
 
-## Runtime environment
 
-**Danou's sandbox** and tryout will be here, i invited you all guys, so you can come and have a look around.
-* https://colab.research.google.com/drive/18WB5XYnpPOj2CkGYaLJI-mYs-rw1r99v?usp=sharing

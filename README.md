@@ -1,5 +1,5 @@
 # Assignment for course ICS5110
-Assignment in course ICS5110 für MSc in Artificial Intelligence in the Winter Semester 2024. Group participants:
+Assignment in course ICS5110 for MSc in Artificial Intelligence 2024/2025. Group participants:
 
 * danou.nauck.24@um.edu.mt
 * owen.gauci.24@um.edu.mt

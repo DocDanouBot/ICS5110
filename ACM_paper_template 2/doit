@@ -1,0 +1,118 @@
+	pdflatex --shell-escape sig-alternate.tex
+	bibtex sig-alternate
+	pdflatex --shell-escape sig-alternate.tex
+	pdflatex --shell-escape sig-alternate.tex
+	rm -f sig-alternate.aux sig-alternate.bbl sig-alternate.div sig-alternate.log sig-alternate.nav sig-alternate.out sig-alternate.snm sig-alternate.toc sig-alternate.vrb
+% TODO: \usepackage{graphicx} required
+\begin{figure}
+\centering
+\includegraphics[width=0.7\linewidth]{ICS-5110-DataInput}
+\caption{}
+\label{fig:ics-5110-datainput}
+\end{figure}
+% TODO: \usepackage{graphicx} required
+\begin{figure}
+\centering
+\includegraphics[width=0.7\linewidth]{ICS-5110-Fig-01}
+\caption{}
+\label{fig:ics-5110-fig-01}
+\end{figure}
+% TODO: \usepackage{graphicx} required
+\begin{figure}
+\centering
+\includegraphics[width=0.7\linewidth]{ICS-5110-Fig-02}
+\caption{}
+\label{fig:ics-5110-fig-02}
+\end{figure}
+% TODO: \usepackage{graphicx} required
+\begin{figure}
+\centering
+\includegraphics[width=0.7\linewidth]{ICS-5110-Fig-03}
+\caption{}
+\label{fig:ics-5110-fig-03}
+\end{figure}
+% TODO: \usepackage{graphicx} required
+\begin{figure}
+\centering
+\includegraphics[width=0.7\linewidth]{ICS-5110-Fig-04}
+\caption{}
+\label{fig:ics-5110-fig-04}
+\end{figure}
+% TODO: \usepackage{graphicx} required
+\begin{figure}
+\centering
+\includegraphics[width=0.7\linewidth]{ICS-5110-Fig-05}
+\caption{}
+\label{fig:ics-5110-fig-05}
+\end{figure}
+% TODO: \usepackage{graphicx} required
+\begin{figure}
+\centering
+\includegraphics[width=0.7\linewidth]{ICS-5110-Fig-06}
+\caption{}
+\label{fig:ics-5110-fig-06}
+\end{figure}
+% TODO: \usepackage{graphicx} required
+\begin{figure}
+\centering
+\includegraphics[width=0.7\linewidth]{ICS-5110-Fig-07}
+\caption{}
+\label{fig:ics-5110-fig-07}
+\end{figure}
+% TODO: \usepackage{graphicx} required
+\begin{figure}
+\centering
+\includegraphics[width=0.7\linewidth]{ICS-5110-Fig-08}
+\caption{}
+\label{fig:ics-5110-fig-08}
+\end{figure}
+% TODO: \usepackage{graphicx} required
+\begin{figure}
+\centering
+\includegraphics[width=0.7\linewidth]{ICS-5110-Fig-09}
+\caption{}
+\label{fig:ics-5110-fig-09}
+\end{figure}
+% TODO: \usepackage{graphicx} required
+\begin{figure}
+\centering
+\includegraphics[width=0.7\linewidth]{ICS-5110-Fig-10}
+\caption{}
+\label{fig:ics-5110-fig-10}
+\end{figure}
+% TODO: \usepackage{graphicx} required
+\begin{figure}
+\centering
+\includegraphics[width=0.7\linewidth]{ICS-5110-Fig-11}
+\caption{}
+\label{fig:ics-5110-fig-11}
+\end{figure}
+% TODO: \usepackage{graphicx} required
+\begin{figure}
+\centering
+\includegraphics[width=0.7\linewidth]{ICS-5110_salary_distrobution}
+\caption{}
+\label{fig:ics-5110salarydistrobution}
+\end{figure}
+% TODO: \usepackage{graphicx} required
+\begin{figure}
+\centering
+\includegraphics[width=0.7\linewidth]{ICS-5110_scatterplot}
+\caption{}
+\label{fig:ics-5110scatterplot}
+\end{figure}
+% TODO: \usepackage{graphicx} required
+\begin{figure}
+\centering
+\includegraphics[width=0.7\linewidth]{ICS-5110-Table-02}
+\caption{}
+\label{fig:ics-5110-table-02}
+\end{figure}
+% TODO: \usepackage{graphicx} required
+\begin{figure}
+\centering
+\includegraphics[width=0.7\linewidth]{ICS-5110_website_stats}
+\caption{}
+\label{fig:ics-5110websitestats}
+\end{figure}
+

@@ -21,7 +21,9 @@ The final ***Assignment paper*** we use the master-template from the uni website
 The ***Genarative AI Usage Journal document*** file can be found here:
 * https://docs.google.com/document/d/1NWOmYiDnY2jD1NamqEsptvA-RoF31Qi-Uhi06pPMZRc/edit?tab=t.0
 
-
+The ***Web tool*** is accessible here:
+* https://ics5110-group-assignment-u6ufn8qggyaoxompbbokzy.streamlit.app/
+  
 
 ## Notes and Documents:
 

@@ -21,10 +21,6 @@ The final ***Assignment paper*** we use the master-template from the uni website
 The ***Genarative AI Usage Journal document*** file can be found here:
 * https://docs.google.com/document/d/1NWOmYiDnY2jD1NamqEsptvA-RoF31Qi-Uhi06pPMZRc/edit?tab=t.0
 
-Note: These are two different version from apparently different master-template sources. They are both looking good, both from the Uni-website and in LaTeX-format. I do not know which one is the better one, or -better said- the expected one. We need to make a decision on this.
-
-The ***Plagasim form***, each one has to fill it out and sign it seperatly
-* https://drive.google.com/drive/folders/1R1uajA8F4sQJXPEh0Nkqfm4KbSZbh-zf 
 
 
 ## Notes and Documents:

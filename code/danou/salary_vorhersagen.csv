@@ -1,0 +1,23 @@
+work_year,experience_level,employment_type,job_title,employee_residence,remote_ratio,company_location,company_size,salary_in_usd
+2023,MI,FT,Data Engineer,US,50,US,M,100000
+2023,SE,PT,Data Analyst,JP,100,JP,L,100000
+2023,EN,CT,Data Engineer,GB,25,GB,S,100000
+2023,SE,FT,Data Scientist,US,0,US,M,100000
+2023,EN,FL,Data Scientist,US,50,US,L,100000
+2023,MI,FT,AI Scientist,DE,100,US,L,100000
+2023,MI,FT,Data Analyst,GB,75,GB,M,100000
+2023,SE,PT,Data Analyst,US,0,US,M,100000
+2023,SE,FT,Data Scientist,US,100,US,M,100000
+2023,MI,FT,Data Analyst,GB,0,GB,S,100000
+2023,SE,FT,Data Scientist,US,50,US,M,100000
+2023,SE,FT,Data Analyst,US,0,US,M,100000
+2024,MI,FT,Data Scientist,DE,100,DE,L,100000
+2024,MI,FT,Data Scientist,US,100,US,M,100000
+2024,EN,FT,Data Analyst,CA,0,CA,M,100000
+2024,EN,PT,Data Analyst,CA,0,CA,M,100000
+2024,SE,FT,Data Engineer,JP,50,JP,S,100000
+2024,SE,FT,Data Engineer,US,100,US,M,100000
+2024,SE,FT,Data Analyst,US,0,US,M,100000
+2024,SE,FT,Data Analyst,US,100,US,M,100000
+2024,MI,CT,AI Scientist,IN,100,US,L,100000
+2025,SE,FL,AI Scientist,DE,100,US,L,100000

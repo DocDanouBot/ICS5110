@@ -18,7 +18,7 @@ regular git-usage rules apply. I think as you are all invited, you can add your 
 The final ***Assignment paper*** we use the master-template from the uni website. The optimized and prepared version can be found here:
 * https://www.overleaf.com/project/6794bebdf50cc6b8b710e947
 
-The ***Genarative AI Usage Journal document*** file can be found here:
+The ***Generative AI Usage Journal document*** file can be found here:
 * https://docs.google.com/document/d/1NWOmYiDnY2jD1NamqEsptvA-RoF31Qi-Uhi06pPMZRc/edit?tab=t.0
 
 The ***Web tool*** is accessible here:
